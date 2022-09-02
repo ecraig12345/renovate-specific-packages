@@ -1,3 +1,3 @@
 Demo of using Renovate to update only specific packages.
 
-https://github.com/ecraig12345/renovate-specific-packages/blob/a1b48514f39455e2c4fa09f3958e9a5bbac3641c/renovate.json#L3-L13
+https://github.com/ecraig12345/renovate-specific-packages/blob/e04a0c6faeae2a3a5ddd411f84eeb043aa031bdd/renovate.json5#L3-L17

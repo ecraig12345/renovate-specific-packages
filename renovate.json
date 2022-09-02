@@ -6,7 +6,8 @@
       "enabled": false
     },
     {
-      "matchPackageNames": ["prettier", "typescript"],
+      "matchPackageNames": ["lodash"],
+      "matchPackagePrefixes": ["react"],
       "enabled": true
     }
   ]

@@ -1,6 +1,10 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "local>ecraig12345/renovate-config"
+  "enabled": false,
+  "packageRules": [
+    {
+      "matchPackageNames": ["prettier", "typescript"],
+      "enabled": true
+    }
   ]
 }

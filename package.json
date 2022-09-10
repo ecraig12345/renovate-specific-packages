@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "devDependencies": {
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "prettier": "2.6.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
